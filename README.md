@@ -2,10 +2,10 @@
 
 ## Who to run project
 
-### `git clone https://github.com/lenasGitHub/login.git`
-### `cd login`
-### `yarn or npm install`
-### `npm start dev`
+##### `git clone https://github.com/lenasGitHub/login.git`
+##### `cd login`
+##### `yarn or npm install`
+##### `npm start dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
