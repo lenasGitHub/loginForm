@@ -118,7 +118,6 @@ const useStyles = makeStyles((theme) => ({
   },
   paper: {
     padding: "24px",
-    boxShadow: theme.shadows[1],
     minWidth: "768px",
     margin: "65px auto",
     display: "flex",
