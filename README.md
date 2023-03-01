@@ -2,7 +2,7 @@
 
 ## Who to run project
 
-##### `git clone https://github.com/lenasGitHub/login.git`
+##### `git clone https://github.com/lenasGitHub/loginForm.git`
 ##### `cd login`
 ##### `yarn or npm install`
 ##### `npm start dev `
